@@ -1,0 +1,6 @@
+version: 2
+models:
+  - name: time_spine
+    columns:
+      - name: date_day
+        data_tests: []
