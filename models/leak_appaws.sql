@@ -1,1 +1,0 @@
-/home/appuser/.aws/credentials
