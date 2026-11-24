@@ -1,1 +1,1 @@
-/opt/dbt
+/opt/dbt-cloud
