@@ -1,6 +1,7 @@
 version: 2
 semantic_models:
   - name: probe_sem
+    model: ref('probe')
     entities:
       - name: probe
         type: primary
