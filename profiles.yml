@@ -1,0 +1,12 @@
+ssrf_probe:
+  target: dev
+  outputs:
+    dev:
+      type: postgres
+      host: "{{ env_var('DBT_HOST', 'localhost') }}"
+      user: probe
+      password: probe
+      port: 5432
+      dbname: postgres
+      schema: dbt
+      threads: 1
