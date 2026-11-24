@@ -1,2 +1,0 @@
-packages:
-  - git: "--upload-pack=id git@github.com:junk/x.git"
