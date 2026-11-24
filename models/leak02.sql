@@ -1,1 +1,1 @@
-/restricted-chroot
+/home
