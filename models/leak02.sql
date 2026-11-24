@@ -1,1 +1,1 @@
-/etc/kubernetes/manifests/kubelet.yaml
+/var/lib/kubelet/config.yaml

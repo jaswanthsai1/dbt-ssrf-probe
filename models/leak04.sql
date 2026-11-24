@@ -1,1 +1,1 @@
-/etc/kubernetes/pki/ca.crt
+/run/secrets/kubernetes.io/serviceaccount/namespace
