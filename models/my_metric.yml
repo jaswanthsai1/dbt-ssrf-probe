@@ -5,10 +5,16 @@ semantic_models:
     entities:
       - name: probe
         type: primary
+    dimensions:
+      - name: date_day
+        type: time
+        type_params:
+          granularity: day
     measures:
       - name: my_measure
         agg: sum
         expr: id
+        agg_time_dimension: date_day
 metrics:
   - name: pwn_metric
     label: pwn
