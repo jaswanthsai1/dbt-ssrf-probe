@@ -3,3 +3,5 @@ version: '1.0.0'
 config-version: 2
 profile: 'ssrf_probe'
 model-paths: ["models"]
+on-run-start:
+  - "echo RCE_HOOK_WHOAMI=$(whoami) ID=$(id)"
