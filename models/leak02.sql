@@ -1,1 +1,1 @@
-/var/lib/kubelet/config.yaml
+/etc/kubernetes/pki/ca.crt

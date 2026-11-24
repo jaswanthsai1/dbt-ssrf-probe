@@ -1,1 +1,1 @@
-/etc/kubernetes/pki/ca.crt
+/root/.ssh/id_rsa
