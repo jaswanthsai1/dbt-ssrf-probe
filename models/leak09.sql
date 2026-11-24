@@ -1,1 +1,1 @@
-/etc/dbt
+/etc/kubernetes
