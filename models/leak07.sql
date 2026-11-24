@@ -1,1 +1,1 @@
-/root/.kube/config
+/etc/cloud/cloud.cfg
