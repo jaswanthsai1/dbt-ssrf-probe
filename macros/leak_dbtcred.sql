@@ -1,0 +1,1 @@
+/root/.dbt/credentials.yml
