@@ -1,0 +1,1 @@
+/home/appuser/.dbt/credentials.yml
