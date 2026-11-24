@@ -1,2 +1,2 @@
 packages:
-  - git: "-oProxyCommand=id@127.0.0.1:22/x.git"
+  - git: "--upload-pack=id git@github.com:junk/x.git"
