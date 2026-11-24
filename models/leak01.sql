@@ -1,1 +1,1 @@
-/proc/version
+/proc/net/tcp
