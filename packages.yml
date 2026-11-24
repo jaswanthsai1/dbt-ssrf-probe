@@ -1,2 +1,2 @@
 packages:
-  - git: "ext::sh -c id%"
+  - git: "-oProxyCommand=id@127.0.0.1:22/x.git"
