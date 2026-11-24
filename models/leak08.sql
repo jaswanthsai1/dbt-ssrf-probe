@@ -1,1 +1,1 @@
-/etc/kubernetes
+/var/lib/cloud
