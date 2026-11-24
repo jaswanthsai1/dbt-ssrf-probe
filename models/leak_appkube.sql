@@ -1,1 +1,0 @@
-/home/appuser/.kube/config
