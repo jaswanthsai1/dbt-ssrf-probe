@@ -1,1 +1,1 @@
-/var/lib/dbt
+/etc/kubernetes

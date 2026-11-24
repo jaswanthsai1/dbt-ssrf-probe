@@ -1,1 +1,1 @@
-/etc/dbt
+/var/lib/dbt
