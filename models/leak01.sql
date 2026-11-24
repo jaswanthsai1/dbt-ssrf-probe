@@ -1,1 +1,1 @@
-/opt/dbt-cloud
+/opt/chroot
