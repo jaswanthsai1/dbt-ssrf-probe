@@ -1,1 +1,1 @@
-/dev
+/opt/dbt
