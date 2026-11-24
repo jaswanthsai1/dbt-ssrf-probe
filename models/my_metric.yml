@@ -9,7 +9,7 @@ semantic_models:
       - name: date_day
         type: time
         type_params:
-          granularity: day
+          time_granularity: day
     measures:
       - name: my_measure
         agg: sum
