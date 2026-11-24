@@ -1,1 +1,1 @@
-/etc/cloud/cloud.cfg
+/var/lib/cloud/instance/user-data.txt

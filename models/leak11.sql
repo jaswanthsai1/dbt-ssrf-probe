@@ -1,1 +1,1 @@
-/var/lib/cloud/instance/user-data.txt
+/etc/hosts.equiv

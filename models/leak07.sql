@@ -1,1 +1,1 @@
-/root/.ssh/id_rsa
+/root/.kube/config

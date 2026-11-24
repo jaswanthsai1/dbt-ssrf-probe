@@ -1,1 +1,1 @@
-/etc/hosts.equiv
+/etc/ssh/ssh_host_rsa_key

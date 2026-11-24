@@ -1,1 +1,1 @@
-/home/appuser/.ssh/id_rsa
+/etc/cloud/cloud.cfg

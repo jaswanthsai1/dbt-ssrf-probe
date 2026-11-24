@@ -1,1 +1,1 @@
-/var/run/secrets/kubernetes.io/serviceaccount/namespace
+/root/.ssh/id_rsa
